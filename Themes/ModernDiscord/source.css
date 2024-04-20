@@ -1,0 +1,13 @@
+:root {
+  --background-color: #202225; /* Dark background color */
+  --text-color: #fff; /* Light text color */
+  --accent-color: #4CAF50; /* Green accent color (adjust as needed) */
+  --border-color: #383838; /* Dark border color */
+}
+
+.theme-dark { /* Apply theme changes with class */
+  background-color: var(--background-color) !important;
+  color: var(--text-color) !important;
+}
+
+/* Style specific UI elements here (refer to online resources) */
